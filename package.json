@@ -1,0 +1,30 @@
+{
+  "name": "codingmath",
+  "version": "1.0.0",
+  "description": "Coding math web app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EteimZ/coding-math.git"
+  },
+  "keywords": [
+    "maths",
+    "coding",
+    "education"
+  ],
+  "author": "Eteimz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EteimZ/coding-math/issues"
+  },
+  "homepage": "https://github.com/EteimZ/coding-math#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16",
+    "pug": "^3.0.2"
+  }
+}
