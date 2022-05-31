@@ -4,5 +4,5 @@ This is my personal repo for the [coding math](https://www.youtube.com/watch?v=z
 
 ## Todo
 
-- add corresponding math equations each video.
-- use express to avoid boilerplate code.
+- add corresponding math equations to each video.
+- make episode 4 dynamic.
