@@ -1,12 +1,12 @@
 # Introduction to trigonometry
 
 Trigonometry is the field of mathemetics that studies right angle triangles and their ratio of lengths.
-Every right angle triangle has 3 sides the *Hypothenus*, *Adjacent* and *Opposite*.
+Every right angle triangle has 3 sides the **Hypothenus**, **Adjacent** and **Opposite**.
 
 ## Trigonometric ratios
 
-If the sides of right angle triangle are divided together we get what is called *trig ratios*. 
-These ratios are related to the triangle's *angle*. There are three main trig ratios:
+If the sides of right angle triangle are divided together we get what is called **trig ratios**. 
+These ratios are related to the triangle's **angle**. There are three main trig ratios:
 
 - Sine
 - Cosine
